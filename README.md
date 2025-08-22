@@ -1,6 +1,6 @@
 The GitHub repository contains sample Python codes for the case studies carried out in the research paper titled 'Randomized prior wavelet neural operator for uncertainty quantification'. Please go through the research paper to understand the implemented algorithm.
 
-Dataset Link:
+Dataset Link: https://drive.google.com/drive/folders/1QGrzGd2P2SaeieYnxdSlZdQbBeBq1zYC?usp=sharing
 
 ** If there is some ambiguity in the datasets/codes please comment in the repository.
 
